@@ -14,7 +14,7 @@ header h1{
 
 }
 .container{
-  width: 400px;
+  width: 700px;
   margin: 0 auto;
 }
 section article{
@@ -51,4 +51,5 @@ footer a{
 }
 footer a:hover{
   color:  cornflowerblue;
+
 }
